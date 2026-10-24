@@ -38,5 +38,6 @@ public class Main {
 
         // Clear.
         myStack.clear();
+        
     }
 }
